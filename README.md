@@ -15,7 +15,7 @@ PURPOSE OF PROJECT: Modify existing code to work properly. Specifically,
                     all the web logs.
                     Also, make use of Object oriented principle of programming.
 
-DATE: 28.07.2023
+DATE: 30.07.2023
 
 HOW TO START THIS PROJECT: Use BlueJ Environment to open project named "package.bluej". 
                            Find inside of this project 4 classes: 
